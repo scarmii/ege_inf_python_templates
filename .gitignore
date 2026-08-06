@@ -1,4 +1,4 @@
-.vs
-.sln
-.pyproj
+*.vs
+*.sln
+*.pyproj
 env/
