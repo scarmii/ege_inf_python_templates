@@ -2,3 +2,4 @@
 *.sln
 *.pyproj
 env/
+draft.py
